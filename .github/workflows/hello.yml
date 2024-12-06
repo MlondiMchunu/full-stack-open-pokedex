@@ -15,4 +15,8 @@ jobs:
           echo "Hello World!"
       - name: Print date
         run: |
-          echo ls -a
+          date
+      - name: Print directory
+        run: |
+          ls -a
+      
