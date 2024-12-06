@@ -56,5 +56,6 @@
   },
   "jest": {
     "testEnvironment": "jsdom"
-  }
+  },
+  "type":"module"
 }
