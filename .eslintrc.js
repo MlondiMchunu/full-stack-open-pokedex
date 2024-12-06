@@ -1,4 +1,6 @@
-module.exports = {
+import globals from 'globals'
+
+export default [ {
   'env': {
     'browser': true,
     'es6': true,
@@ -46,4 +48,4 @@ module.exports = {
     'no-console': 'error',
     'react/prop-types': 0
   }
-}
+}]
