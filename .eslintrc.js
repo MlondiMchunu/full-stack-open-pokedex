@@ -1,5 +1,4 @@
-
-export default [ {
+module.exports = {
   'env': {
     'browser': true,
     'es6': true,
@@ -47,4 +46,4 @@ export default [ {
     'no-console': 'error',
     'react/prop-types': 0
   }
-}]
+}
