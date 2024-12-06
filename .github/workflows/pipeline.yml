@@ -17,5 +17,5 @@ jobs:
         run: npm install
       - run: npm install eslint @eslint/js --save-dev
       - run: npx eslint --init
-      - run: npm run eslint -- --fix
+      - run: npm run eslint --fix
       
