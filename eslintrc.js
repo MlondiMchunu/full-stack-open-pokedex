@@ -1,6 +1,4 @@
-import globals from 'globals'
-
-export default[
+module.exports 
  {
   'env': {
     'browser': true,
@@ -50,4 +48,3 @@ export default[
     'react/prop-types': 0
   }
 }
-  ]
