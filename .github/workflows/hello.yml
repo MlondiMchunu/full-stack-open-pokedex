@@ -15,4 +15,4 @@ jobs:
           echo "Hello World!"
       - name: Print date
         run: |
-          echo date[MMDDhhmm[[CC]YY][.ss]]
+          echo ls
