@@ -1,3 +1,5 @@
+import globals from 'globals'
+
 module.exports = {
   'env': {
     'browser': true,
