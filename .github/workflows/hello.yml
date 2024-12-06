@@ -1,5 +1,5 @@
 name: Hello World!
-run-name: ${{github.actor }} is starting GitHub Actions 
+run-name: ${{github.actor }} is running GitHub Actions 
 
 on:
   push:
