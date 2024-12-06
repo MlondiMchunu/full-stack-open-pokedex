@@ -1,9 +1,10 @@
 name: Hello World!
+run-name: ${{github.actor }} is starting GitHub Actions 
 
 on:
   push:
     branches:
-      - mai
+      - main
 
 jobs:
   hello_world_job:
