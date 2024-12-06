@@ -37,7 +37,7 @@ module.exports = {
       'never'
     ],
     'eqeqeq': 'error',
-    'no-trailing-spaces': 'warn',
+    'no-trailing-spaces': 'off',
     'object-curly-spacing': [
       'error', 'always'
     ],
